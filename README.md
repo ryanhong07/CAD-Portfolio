@@ -36,5 +36,5 @@ ryanhong9@gmail.com | Munich, Germany
 ## Core Competencies
 
 * **CAD & Standards:** SOLIDWORKS (CSWP), CATIA V5, 3DEXPERIENCE, GD&T, Tolerance Stack-ups, BOM Architecture.
-* **Kinematics & FEA:** Linear Static FEA, Multi-Body Kinematics, Rig Correlation (*Auspendeln*), Actuator Sizing.
+* **Kinematics & FEA:** Linear Static FEA, Multi-Body Kinematics, Actuator Sizing.
 * **Validation & Tools:** STM32 HAL, dSPACE ControlDesk, Vector CANape, Python, MATLAB/Simulink, C/C++.
