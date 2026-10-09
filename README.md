@@ -22,7 +22,7 @@ Email: ryanhong9@gmail.com | Munich, Germany
 * **FEA & Optimization:** Redesigned base plate via linear static FEA iterations, reducing mass by **41.5%** and print time by **10 minutes** while maintaining factor of safety $n = 28$.
 * **Deliverables:** Fully dimensioned 2D production drawings with GD&T datum reference frames and integrated cable channels.
 
-![Acoustic Localization Sentry Demo](./assets/project1_sentry.gif)
+![Acoustic Localization Sentry Demo](assets/project1_sentry.gif)
 
 ### 2. V8 Internal Combustion Engine Assembly
 
