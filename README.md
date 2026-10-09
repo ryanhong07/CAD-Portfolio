@@ -4,7 +4,7 @@
 M.Sc. Mechatronics, Robotics & Biomechanical Engineering — Technical University of Munich (TUM)  
 B.Sc. Mechanical Engineering — University of Duisburg-Essen  
 Certified SOLIDWORKS Professional (CSWP) — Mechanical Design  
-[Email](mailto:ryanhong9@gmail.com) | Munich, Germany
+ryanhong9@gmail.com | Munich, Germany
 
 ---
 
